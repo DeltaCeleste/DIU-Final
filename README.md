@@ -1,5 +1,6 @@
 # DIU-Final
 Trabajo Final DIU, curso académico 25/26
+[Enlace al repositorio](https://github.com/DeltaCeleste/DIU-Final)
 
 ## PARTE I: Mi Experiencia UX
 ---
@@ -55,7 +56,7 @@ El diseño se adapta mediante una rejilla fluida (Fluid Grid) a pantallas móvil
 Se ha realizado un usability review para exponer de forma sistematizada las deficiencias y fortalezas de la página, el cual ha terminado calificando la página con un 78, una puntuación decente, pero que expone que hay algunos matices cuya mejora debe ser prioritaria.
 
 [Enlace al pdf](Resources/Usability-review.pdf)
-
+<br>
 ### 2.2. Propuesta de Valor para ECOMERCADO UGR
 El **Ecomercado UGR** es una iniciativa conjunta entre la *Universidad de Granada* y la *Red Agroecológica de Granada*, celebrada en los **Paseíllos Universitarios de Fuentenueva** y complementada con jornadas académicas en la **ETS de Ingeniería de Edificación (ETSIE)**.
 
@@ -68,6 +69,7 @@ El **Ecomercado UGR** es una iniciativa conjunta entre la *Universidad de Granad
 Se propone el diseño de una **Web propia**, enfocada en resumir de manera útil la información relevante al proyecto mientras mantiene cierta dependencia con **Impronta Granada**. A continuación se detalla el Boceto, el cual debe ser tomado como una única página, aunque su estructura permite la división de esta en diferentes páginas que mantengan su información relevante.
 
 ![Imagen 1](Resources/Boceto_Final_1.png)
+
 ![Imagen 1](Resources/Boceto_Final_2.png)
 
 ### 2.3. Autoevaluación y Reflexión Crítica 
